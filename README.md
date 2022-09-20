@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Zishan</h1>
 <h3 align="center">A Software Engineering Student from Paris</h3>
 
-- 🔭 I’m currently working on a **Pathfinder Visualizer App with ReactJS !**
+- 🔭 I’m currently working on **Expense Splitter app**
 
-- 🌱 I’m currently learning **React and Kotlin**
+- 🌱 I’m currently learning **Kotlin**
 
-- 👨‍💻 All of my projects are available at [mzishan.fr](mzishan.fr)
+- 👨‍💻 All of my projects are available at [mzishan.com](mzishan.com)
 
 - 📫 You can reach me by **mohdzish2000@gmail.com**
 
