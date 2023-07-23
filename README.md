@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Zishan</h1>
 <h3 align="center">A Software Engineering Student from Paris</h3>
 
-- 🔭 I’m currently working on **Expense Splitter app**
+- 🔭 I’m currently working on **RapidTools.io**
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **NextJS 13 and Swift**
 
 - 👨‍💻 All of my projects are available at [mzishan.com](mzishan.com)
 
